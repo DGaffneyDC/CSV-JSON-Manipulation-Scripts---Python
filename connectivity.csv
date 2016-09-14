@@ -1,0 +1,29 @@
+id,field,name
+49,vb.voterbase_phone,Phone
+50,vb.voterbase_phone_wireless,Wireless Phone
+526,tb.internet_type_cd,Internet Access
+667,tb.person_online_flg,Online Presense
+668,tb.person_facebook_flg,Facebook
+998,xpbb.behaviorbank_communication_connectivity,Household Connectivity
+1073,xpbb.behaviorbank_internet_online_subscriber,Online Subscriber
+1267,xpbb.hhacty_intpc___internetown_computer,Own Computer
+1269,xpbb.hhacty_intpc___internetuse_internet_service,Internet Service
+1270,xpbb.hhacty_intpc___internetusedsl_hispd,High Speed Internet
+1271,xpbb.hhacty_intpc___internetuse_modem,Modem User
+1282,xpbb.hhacty_intpc___internetuse_macintosh_or_apple,Mac
+1283,xpbb.hhacty_intpc___internetwindows_operating_system,Windows
+1285,xpbb.hhacty_intelctrncs_gdgtscell_phone,Cell Phone
+1286,xpbb.hhacty_intelctrncs_gdgtscellphn_prmrylin,Cell Phone Is Primary Phone
+1291,xpbb.hhacty_intelctrncs_gdgtssatellite_dish,Satellite 
+1296,xpbb.hhacty_intelctrncs_gdgtsdigital_camera,Digital Camera
+1297,xpbb.hhacty_intelctrncs_gdgtsflat_screen_tv,Flast Screen TV
+1298,xpbb.hhacty_intelctrncs_gdgtshdtv,HDTV
+1300,xpbb.hhacty_intelctrncs_gdgtslarge_screen_tv,Large Screen TV
+1301,xpbb.hhacty_intelctrncs_gdgtsnavigation_system,GPS Navigation
+1302,xpbb.hhacty_intelctrncs_gdgtspda_blackberry,Blackberry
+1303,xpbb.hhacty_intelctrncs_gdgtssecurity_system,Security System
+1305,xpbb.hhacty_intelctrncs_gdgtsvideo_game_system,Gaming Console
+1386,xpbb.hhlifestylentertainmentcable_premium_channels,Premium Cable
+1387,xpbb.hhlifestylentertainmentdigial_cable,Digital Cable
+1455,cell.tsmart_wireless_source,Wireless Phone Vendor
+1468,cell.source2_cordcutter_indicator,Cordcutter

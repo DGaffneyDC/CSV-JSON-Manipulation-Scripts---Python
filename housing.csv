@@ -1,0 +1,15 @@
+id,field,name
+944,xpg.investment_property_state,Investment Property State
+945,xpg.investment_property_zip,Investment Property Zip
+967,xpg.investment_property_additional_investment_flag,Two or More Investment Properties
+912,xpg.property_realty_home_stories,Home Stories
+913,xpg.property_realty_home_swimming_pool_indicator,Swimming Pool
+914,xpg.property_realty_home_total_rooms,Number of Rooms
+915,xpg.property_realty_home_building_square_footage,Building Square Footage
+916,xpg.property_realty_home_bedrooms,Number of Bedrooms
+917,xpg.property_realty_home_bath,Number of Bathrooms
+919,xpg.property_realty_home_fireplaces,Number of Fireplaces
+920,xpg.property_realty_home_floor_cover_indicator,Floor Covering
+921,xpg.property_realty_home_heat_indicator,Home Heating Type
+922,xpg.property_realty_home_air_conditioning,Air Conditioning
+923,xpg.property_realty_home_exterior_wall_type,Exterior Wall Type
