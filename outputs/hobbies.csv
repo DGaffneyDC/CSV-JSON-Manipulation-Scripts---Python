@@ -1,0 +1,58 @@
+id,field,name
+721,xp.mor_bank_crafts_hobby_merchandise_buyer,Crafts
+722,xp.mor_bank_gardening_farming_buyer,Gardening/ Farming
+734,xp.mor_bank_do_it_yourselfers,DIY
+735,xp.mor_bank_news_and_financial,News and Financial Products
+736,xp.mor_bank_photography,Photography
+834,xpg.mor_bank_crafts_hobby_merchandise_buyer,Craft Buyer
+835,xpg.mor_bank_gardening_farming_buyer,Gardening/ Farming
+836,xpg.mor_bank_book_buyer,Books
+847,xpg.mor_bank_do-it-yourselfers,DIY
+849,xpg.mor_bank_photography,Photography
+980,xpbb.behaviorbank_interest_in_astrology,Astrology
+982,xpbb.behaviorbank_interest_in_automotive,Cars & Trucks
+986,xpbb.behaviorbank_interest_in_boating,Boating
+988,xpbb.behaviorbank_cat_enthusiasts,Cats
+996,xpbb.behaviorbank_collectors,Collectors
+1000,xpbb.behaviorbank_computers_peripherals,Computers & Technology
+1001,xpbb.behaviorbank_interest_in_crafts,Crafts
+1007,xpbb.behaviorbank_do_it_yourselfer,DIY
+1009,xpbb.behaviorbank_dog_enthusiasts,Dogs
+1017,xpbb.behaviorbank_interest_in_gardening,Gardening
+1024,xpbb.behaviorbank_healthy_living,Healthy Living
+1026,xpbb.behaviorbank_hi_tech_owner,Hi-Tech
+1027,xpbb.behaviorbank_home_decorating_furnishing,Decorating & Furniture
+1029,xpbb.behaviorbank_home_entertainment_tv_video,"Electronics, TV, Video"
+1074,xpbb.behaviorbank_interest_in_the_outdoors,General Outdoor Interest
+1078,xpbb.behaviorbank_pet_enthusiast,Interest in Pets
+1080,xpbb.behaviorbank_interest_in_photography,Photography
+1083,xpbb.propensity_interest_in_politics_code,Politics
+1096,xpbb.behaviorbank_self_improvement,Self Improvement
+1104,xpbb.behaviorbank_sweepstakes_gambling,Sweepstakes Gambling
+1114,xpbb.behaviorbank_interest_in_videos_dvd,Movies
+1120,xpbb.hhacty_intcollectingother_collectibles,Collectables
+1121,xpbb.hhacty_intcollectingart_antiques,Antiques
+1122,xpbb.hhacty_intcollectingstamps_coins,Coins
+1123,xpbb.hhacty_intcollectingdie_cast_miniatures,Miniatures
+1124,xpbb.hhacty_intcollectingdolls,Dolls
+1125,xpbb.hhacty_intcollectingfigurines,Figurines
+1126,xpbb.hhacty_intcollectingplates,Plates
+1127,xpbb.hhacty_intcollectingsports_memorabilia,Sports Memorabilia
+1128,xpbb.hhacty_intcollectingteddy_bears,Teddy Bears
+1129,xpbb.hhacty_intcollectingbooks_collecting,Books
+1136,xpbb.hhacty_intcraftscrafts,Crafts
+1137,xpbb.hhacty_intcraftsknitting_needlework,Needlework
+1138,xpbb.hhacty_intcraftsquilting,Quilting
+1139,xpbb.hhacty_intcraftssewing,Sewing
+1140,xpbb.hhacty_intcraftswoodworking,Woodworking
+1162,xpbb.hhacty_inthobbiesphotography_hobbies,Photography
+1163,xpbb.hhacty_inthobbiesgardening_hobbies,Gardening
+1164,xpbb.hhacty_inthobbiesvideo_viewing,Movies
+1299,xpbb.hhacty_intelctrncs_gdgtsinterest_in_electronics,Electronics
+1307,xpbb.hhacty_intcltrl_artsinterest_in_cultrual_arts,Cultural Arts
+1388,xpbb.hhlifestylentertainmentgo_to_movies,Movies in Theater
+1390,xpbb.hhlifestylentertainmentwatch_cable_tv,Watch Cable
+1391,xpbb.hhlifestylentertainmentwatch_videos,Movies at Home
+1420,xpbb.hhlifestylpetsown_a_cat,Cat
+1421,xpbb.hhlifestylpetsown_a_dog,Dog
+1422,xpbb.hhlifestylpetsown_a_pet,Pets

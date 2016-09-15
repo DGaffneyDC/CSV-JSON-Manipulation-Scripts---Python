@@ -1,0 +1,14 @@
+id,field,name
+811,xpg.number_of_children_in_living_unit,Number of Children in Home
+813,xpg.children_age_0-3,Children 0-3
+815,xpg.children_age_0-3_gender,Children 0-3 Gender
+816,xpg.children_age_4-6,Children 4-6
+818,xpg.children_age_4-6_gender,Children 4-6 Gender
+819,xpg.children_age_7-9,Children 7-9
+821,xpg.children_age_7-9_gender,Children 7-9 Gender
+822,xpg.children_age_10-12,Children 10-12
+824,xpg.children_age_10-12_gender,Children 10-12 Gender
+825,xpg.children_age_13-15,Children 13-15
+827,xpg.children_age_13-15_gender,Children 13-15 Gender
+828,xpg.children_age_16-18,Children 16-19
+830,xpg.children_age_16-18_gender,Children 16-19 Gender

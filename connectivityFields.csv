@@ -1,14 +1,0 @@
-field_id,field,name,explanation
-49,vb.voterbase_phone,Phone,"Commercially-sourced/verified phone number. Use the associated field, vb.voterbase_phone_type, to determine the type of phone. Use the associated field, vb.voterbase_phone_last_validated, to determine the recency of the phone append.VOIP and landline a"
-50,vb.voterbase_phone_wireless,Wireless Phone,Commercially-sourced/verified wireless phone number.
-290,vb.personal_voice_social_networker_demi-decile,vb.personal_voice_social_networker_demi-decile,"Indicates the likelihood that the household actively participates in a ""personal voice"" social networking site such as a blog or Twitter. A value of 1 represents those most likely and 20 represents those least likely."
-291,vb.professional_social_networker_demi-decile,vb.professional_social_networker_demi-decile,Indicates the likelihood that the household actively participates in a professional social networking site such as LinkedIn. A value of 1 represents those most likely and 20 represents those least likely.
-292,vb.purely_social_networker_demi-decile,vb.purely_social_networker_demi-decile,Indicates the likelihood that the household actively participates in purely social networking sites such as Facebook or MySpace. A value of 1 represents those most likely and 20 represents those least likely.
-293,vb.social_networker_demi-decile,vb.social_networker_demi-decile,Indicates the likelihood that the household actively participates in one or more types of social networks. A value of 1 represents those most likely and 20 represents those least likely.
-526,tb.internet_type_cd,Internet Access,Provides the type of connection the household has for internet access
-667,tb.person_online_flg,Online Presense,Indicates if the person has an online presence
-668,tb.person_facebook_flg,Facebook,Indicates if the person is on Facebook
-998,xpbb.behaviorbank_communication_connectivity,xpbb.behaviorbank_communication_connectivity,Experian Field ID: 4849; Experian Datapoint Match Level: Household; Communication/connectivity
-999,xpbb.propensity_communication_connectivity_code,xpbb.propensity_communication_connectivity_code,"Experian Field ID: 5044; Experian Datapoint Match Level: Household; Communication ; Communication Propensity, Self reported data 8544 Z Communication ; Communication Propensity indicates a household's self-reported interest in Communication and Connectiv"
-1455,cell.tsmart_wireless_source,Wireless Phone Vendor,Indicates the phone's vendor source
-1468,cell.source2_cordcutter_indicator,Cordcutter,Source #2 flag for high likelihood of a mobile phone individual
