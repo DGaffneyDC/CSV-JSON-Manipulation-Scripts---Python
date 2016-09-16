@@ -1,8 +1,9 @@
-# CSV-JSON-Manipulation-Scripts---Python
+# CSV-and-JSON-Manipulation-Scripts---Python
 
 Helpful python scripts for csv and json manipulation. 
 
-CSV-to-JSON Object Converter
+
+# CSV-to-JSON Object Converter
 
 Simple cli tool to convert csv files to json objects. All headers are currently converted to object keys. Customization in progress.
 
@@ -10,7 +11,11 @@ Example:
 
 ~$ python csv2json.py examplefile.csv outputfile.json
 
-CSV-Column-Remover
+
+
+
+
+# CSV-Column-Remover
 
 Helpful cli tool to remove columns from a CSV file by their index position. Columns begin at index 0. 
 
@@ -31,7 +36,9 @@ Examples:
 ~$ python csvColRemove.py ~/Desktop/Outputs/exampleFile1.csv outputFile1.csv --remove 1 5 17 2 9 10
 
 
-JSON Data Cube Parsing
+
+
+# JSON Data Cube Parsing
 
 Provide inFile, outFile, index position and value(s) to filter JSON data cubes.
 
